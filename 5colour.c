@@ -1,8 +1,6 @@
 /*
 Module: Graphs
 Exercise 7.
-Name: Himanshu Rai
-Roll Number:111601032
 Programme Description: Enhance 6colour.c to a 5-colouring algorithm using Kempe/Haewood idea. 
 Date: 10/10/2017
 */
