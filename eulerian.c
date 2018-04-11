@@ -1,5 +1,4 @@
-/* Programmer's Name: Sachin Hansda
-   Prorgram Name: eulerian.c
+/* Prorgram Name: eulerian.c
    Program Description: Write a C program to find an Eulerian circuit in a given graph, if it has one.
                         User inputs: Name of the file containing adjacency matrix of the graph (string) and starting node (int)
                         Output: If the graph is Eulerian, print the sequence of vertices in the Eulerian circuit starting from the designated vertex.  Otherwise, print "No."
