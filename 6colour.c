@@ -1,4 +1,4 @@
-/* Programmer's Name: Sachin Hansda
+/* 
    Prorgram Name: 6colour.c
    Program Description: Write a C program which properly colours the vertices of an input planar graph using 6 colours.
                         First create a 5-degenerate sequence of vertices and then colour them in the reverse order. You can maintain the 5-degenerate sequence as an array. 
