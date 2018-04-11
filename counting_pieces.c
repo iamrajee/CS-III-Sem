@@ -1,4 +1,4 @@
-/* Programmer's Name: Sachin Hansda
+/*
    Program Name: counting_pieces.c
    Program Description: Write a C program which uses BFS to count the number of connected components in a graph. 
 			User inputs: Name of the file containing adjacency matrix of the graph
