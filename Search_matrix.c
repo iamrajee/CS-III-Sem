@@ -1,4 +1,4 @@
-/*Programmer's Name: Sachin Hansda 
+/*
   Program Name: search_matrix.c
   Program Description: Given a matrix of integers in which each row and each column is sorted, write a function to find an element in it
   Date: 18/9/17 */
