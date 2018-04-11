@@ -1,5 +1,4 @@
 /*
-Program Author -- Arko Sharma
 Date           -  03/10/2017
 
 Topic          - Graphs( Experiment 1 Problem 2)
